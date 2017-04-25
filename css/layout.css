@@ -330,6 +330,33 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
+
+
+.nodejs {
+    width: 90%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+
+.angularjs {
+    width: 80%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+
+.jQuery {
+    width: 75%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+
+.db {
+    width: 85%;
+    -moz-animation: photoshop 2s ease;
+    -webkit-animation: photoshop 2s ease;
+}
+
+
 .illustrator {
   	width: 55%;
   	-moz-animation: illustrator 2s ease;
